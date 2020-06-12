@@ -8,7 +8,7 @@ Python 2.7<br>
 Open commmand prompt/terminal  and run:
 
 ```
-$python2 server.py
+E:\Multithread http request>python2 server.py
 Enter Port Number : 8080
 Ready to serve...
 ```
@@ -18,7 +18,7 @@ User need to input port number for server to serve
 ### Run Client
 
 ```
-$python2 client.py
+E:\Multithread http request>python2 server.pypython2 client.py
 Port Number:8080
 Search here:hello.html
 ```
