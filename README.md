@@ -5,7 +5,6 @@ Multithreaded web server that is capable of serving multiple HTTP requests simul
 Python 2.7<br>
 
 ## Run Server
-<p>Open commmand prompt/terminal  and run:</p><br>
+<p>Open commmand prompt/terminal  and run:</p>
 <p>python2 server.py</p>
-
-![asdasd](/images/server.JPG "abc")
+![server output](/images/server.JPG "output")
