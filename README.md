@@ -10,6 +10,12 @@ Open commmand prompt/terminal  and run:
 ```
 $python2 server.py
 ```
+```
+Enter Port Number : 8080
+```
+```
+Ready to serve...
+```
 ### Server terminal output
 User need to input port number for server to serve
 <div style="text-align:center"><img src="/images/server.JPG" /></div>
