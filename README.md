@@ -7,4 +7,5 @@ Python 2.7<br>
 ## Run Server
 <p>Open commmand prompt/terminal  and run:</p>
 <p>python2 server.py</p>
-![server.py output](/images/server.JPGraw=true)
+
+![server terminal output](/images/server.JPG\ "server terminal output")
