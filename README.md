@@ -10,8 +10,7 @@ Python 2.7<br>
 ```
 $python2 server.py
 ```
-
-![server terminal output](/images/server.JPG "server terminal output")
+<div style="text-align:center"><img src="/images/server.JPG" /></div>
 
 <p>User need to input port number for server to serve</p>
 
@@ -20,6 +19,7 @@ $python2 server.py
 ```
 $python2 client.py
 ```
+
 
 
 
