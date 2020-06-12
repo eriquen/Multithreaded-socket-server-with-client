@@ -8,4 +8,4 @@ Python 2.7<br>
 <p>Open commmand prompt/terminal  and run:</p>
 <p>python2 server.py</p>
 
-![server terminal output](/images/server.JPG\ "server terminal output")
+![server terminal output](/images/server.JPG "server terminal output")
