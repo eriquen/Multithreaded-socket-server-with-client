@@ -8,4 +8,4 @@ Python 2.7<br>
 <p>Open commmand prompt/terminal  and run:</p><br>
 <p>python2 server.py</p>
 
-[link](/images/server.JPG)
+![asdasd](/images/server.JPG "abc")
