@@ -18,7 +18,7 @@ User need to input port number for server to serve
 ### Run Client
 
 ```
-E:\Multithread http request>python2 server.pypython2 client.py
+E:\Multithread http request>python2 client.py
 Port Number:8080
 Search here:hello.html
 ```
